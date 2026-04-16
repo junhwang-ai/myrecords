@@ -1,0 +1,18 @@
+{
+  "name": "My Records",
+  "short_name": "Records",
+  "description": "위스키, 시가, 맛집 개인 기록 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1208",
+  "theme_color": "#1a1208",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
